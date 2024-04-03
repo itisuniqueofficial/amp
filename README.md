@@ -1,7 +1,7 @@
 # ⚡ AMP Journal
 Template AMP ⚡ For Blogger
 
-![valid-amp](valid-amp.png)
+![valid-amp](valid-amp.jpeg)
 
 ## Feature
 - ⚡ Fast
