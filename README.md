@@ -1,4 +1,4 @@
-# ⚡ AMP Journal
+# ⚡ It Is Unique AMP - Official (AMP) - (It Is Unique Official)
 Template AMP ⚡ For Blogger
 
 ![valid-amp](valid-amp.jpeg)
